@@ -1,6 +1,7 @@
 # This is nomle upload file.txt
 
 <img width="552" alt="sample-1" src="https://github.com/ENG0925/Technical-test/assets/134822937/de84a682-0fae-47ac-bc62-ca83e3e288f9">
+<br>
 it can scan how many words a user has chatted (typed in) and return a list of the chattiest users, in descending order
  <br>
 
