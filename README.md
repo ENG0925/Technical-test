@@ -5,8 +5,8 @@
  - it can scan how many words a user has chatted (typed in) <br>
  - return a list of the chattiest users, in descending order<br>
  -  allow multiple file upload, and display results accordingly<br>
-
-
+<br>
+<br>
 <img width="232" alt="new-1-txt" src="https://github.com/ENG0925/Technical-test/assets/134822937/4d650bef-d918-4f1f-af42-f66700d66058">
 <br>
 The content inside new 1.txt
