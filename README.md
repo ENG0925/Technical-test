@@ -21,10 +21,11 @@ The content inside new 2.txt
 # When the file not .txt
 <img width="550" alt="sample-3" src="https://github.com/ENG0925/Technical-test/assets/134822937/19034fd6-14a2-4027-9d89-47ca7f1154bf">
 <br>
-it will shoulding a worring massege to tell you this is not .txt file
+it will warning to you this is not .txt file
 <br>
 <br>
 
 # When not uploaded file 
 <img width="529" alt="sample-2" src="https://github.com/ENG0925/Technical-test/assets/134822937/f9310393-eaf7-4735-a139-20da5647b936">
 <br>
+it will warning to you you, you not uploaded file
